@@ -1,3 +1,9 @@
+# Counter App
+A starter react app with an `<h1>` tag showing a count value which can be changed using two buttons **+** and **-**.
+
+
+
+
 ### How to create a react app?
 `npm create-react-app <app-name>`  
 `cd <app-name>`  
