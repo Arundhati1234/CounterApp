@@ -1,4 +1,4 @@
-#### How to create a react app?
+### How to create a react app?
 `npm create-react-app <app-name>`  
 `cd <app-name>`  
 `npm start`
